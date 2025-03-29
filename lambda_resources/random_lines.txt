@@ -1,0 +1,10 @@
+Line 1: The quick brown fox jumps over the lazy dog
+Line 2: All that glitters is not gold
+Line 3: Easy come, easy go
+Line 4: Every cloud has a silver lining
+Line 5: Actions speak louder than words
+Line 6: You can't judge a book by its cover
+Line 7: Better late than never
+Line 8: Curiosity killed the cat
+Line 9: Fortune favors the bold
+Line 10: Practice makes perfect
