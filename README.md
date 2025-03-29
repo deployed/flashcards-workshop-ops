@@ -37,7 +37,7 @@ aws configure
 Podaj wymagane informacje:
 - AWS Access Key ID: [Twój klucz dostępu]
 - AWS Secret Access Key: [Twój sekretny klucz]
-- Default region name: eu-central-1
+- Default region name: eu-west-1
 - Default output format: json
 
 ### 4. Weryfikacja konfiguracji AWS CLI
